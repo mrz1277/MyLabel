@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "MyLabel"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
   s.summary          = "This is a test summary I have no words to say about this"
 
 # This description is used to generate tags and improve search results.
