@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "MyLabel"
   s.version          = "0.1.0"
-  s.summary          = "A short description of MyLabel asdf"
+  s.summary          = "This is a test summary I have no words to say about this"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
-asdfasdf
+But wait, if you’ve been following the instructions step by step, technically there isn’t a project at that URL yet. It’s time to push your project to a public repository on GitHub. While there are other options for hosting your pods, GitHub is by far the most common.
                        DESC
 
   s.homepage         = "https://github.com/mrz1277/MyLabel"
