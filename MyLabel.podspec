@@ -24,7 +24,7 @@ But wait, if you’ve been following the instructions step by step, technically 
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "jaesung" => "jaesung@ujet.co" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/MyLabel.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/mrz1277/MyLabel.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'
